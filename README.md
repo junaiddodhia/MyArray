@@ -2,7 +2,7 @@
 
 A from scratch implementation of an arraylist in Java without using the Java Collections framework.
 
-
+---
 
 Class stub
 
@@ -16,6 +16,8 @@ public class MyArray {
 
 }
 ```
+
+--- 
 
 Variables
 
@@ -31,6 +33,8 @@ Variables
  private int arraySize;
 ```
 
+---
+
 Functions
 
 ```java
@@ -44,6 +48,8 @@ public void display()
 public void removeDups()
 ```
 
+---
+
 Default constructor
 
 ```java
@@ -55,6 +61,8 @@ public MyArray() {
 	 internalArray = new String[10];
 }
 ```
+
+---
 
 Parameterized constructor
 
@@ -75,6 +83,8 @@ public MyArray(int initialCapacity) {
       }
 }
 ```
+
+---
 
 A function to add a word to the array after performing the required checks
 
@@ -109,6 +119,8 @@ public void add(String text) {
 }
 ```
 
+---
+
 A function to search for a given word in the array and return true if found or false if not
 
 ```java
@@ -137,6 +149,8 @@ public boolean search(String key) {
 }
 ```
 
+---
+
 A function to return the size of the array
 
 ```java
@@ -152,6 +166,8 @@ public int size() {
 }
 ```
 
+---
+
 A function to return the capacity of the array
 
 ```java
@@ -166,6 +182,8 @@ A function to return the capacity of the array
 	 return internalArray.length;
  }
 ```
+
+---
 
 A function to display the content of the array
 
@@ -188,6 +206,8 @@ A function to display the content of the array
         stringBuilder.trimToSize();
 }
 ```
+
+---
 
 A function to remove duplicates from the array
 
