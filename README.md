@@ -2,7 +2,7 @@
 
 A from scratch implementation of an arraylist in Java without using the Java Collections framework.
 
----
+
 
 Class stub
 
