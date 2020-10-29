@@ -1,19 +1,17 @@
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
-
-/**
- * 17683 Data Structures for Application Programmers.
- * Homework 1 MyArray
+/** Represents the test Driver for MyArray.
+ * 
+ * @author Junaid D.
  */
-public class HW1Driver {
+public class Driver {
     /**
      * Test driver for MyArray.
      * @param args arguments
      */
     public static void main(String[] args) {
         // creates MyArray object with initial capacity
-        // 0 is allowed and the code should work
         MyArray words = new MyArray(0);
         Scanner scanner = null;
 
@@ -60,14 +58,8 @@ public class HW1Driver {
         // print words in the words array
         words.display();
 
-        /*
-         * remove all of the duplicates in the words array
-         * Think carefully about how you would perform!
-         * 1. you are NOT allowed to use Java Collections Framework
-         *    Arrays class is a part of Java Collections Framework. Do not use it!
-         * 2. you are NOT allowed to use any other data structures
-         * 3. you are NOT allowed to use any sorting algorithms
-         */
+
+        // remove all of the duplicates in the words array
         words.removeDups();
 
         System.out.println("Number of words w/o duplicates is : " + words.size());
