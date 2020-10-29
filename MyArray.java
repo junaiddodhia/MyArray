@@ -1,10 +1,8 @@
-/**
- * 17683 Data Structures for Application Programmers. Homework 1 MyArray.
- *
- * Andrew ID: jdodhia
- *
+/** Represents an array.
+ * @version 1.5
+ * @since 1.0
  * @author Junaid Dodhia
- */
+*/
 public class MyArray {
     /**
      * Internal array of Type String.
