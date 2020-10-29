@@ -68,7 +68,7 @@ public class MyArray {
     }
 
     /**
-     * Searches for a given word in the array and returns true or false.
+     * Searches for a given word in the array and returns true if found or false if not.
      *
      * Worst-case running time complexity: O(n)
      *
