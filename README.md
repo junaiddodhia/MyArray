@@ -4,7 +4,7 @@ A from scratch implementation of an arraylist in Java without using the Java Col
 
 ---
 
-Class stub
+Stub
 
 ```java
 /** Represents an array.
@@ -13,6 +13,18 @@ Class stub
  * @author Junaid Dodhia
 */
 public class MyArray {
+
+private String[] internalArray;
+private int arraySize;
+
+public MyArray(){}
+public MyArray(int initialCapacity){}
+public void add(String text){}
+public boolean search(String key){}
+public int size(){}
+public int getCapacity(){}
+public void display(){}
+public void removeDups(){}
 
 }
 ```
