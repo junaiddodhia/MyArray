@@ -3,9 +3,14 @@
 A from scratch implementation of an arraylist in Java without using the Java Collections framework.
 
 ---
+Wright's First Flight - 1902
+![Wright's First Flight - 1902](https://github.com/junaiddodhia/MyArray/blob/master/Wright'sFirstFlight1902.png?raw=true)
+
+---
 
 Empty stub
 
+---
 ```java
 /** Represents an empty stub for the class MyArray.
  * 
