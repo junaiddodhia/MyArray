@@ -1,6 +1,4 @@
-# An ArrayList from scratch 
-
-A from scratch implementation of an arraylist in Java without using the Java Collections framework.
+### Arraylist implementation in Java without using the Java Collections framework.
 
 ---
 Wright's First Flight - 1902
