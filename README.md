@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/junaiddodhia/MyArray/blob/master/Wright'sFirstFlight1902.png?raw=true" width="700" height="450" />
+<img src="https://github.com/junaiddodhia/MyArray/blob/master/Wright'sFirstFlight1902.png?raw=true" width="740" height="450" />
 
 
 ---
@@ -252,8 +252,12 @@ To see a put together file, look at MyArray.java.
 Driver.java is a driver file to test MyArray.java. 
 childrensbible.txt is the text file used for testing.
 
-```
+---
+
 Expected output:
+
+---
+```
 ----------------
 david is found
 Number of words in the file is : 9398
