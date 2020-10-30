@@ -7,7 +7,7 @@ A from scratch implementation of an arraylist in Java without using the Java Col
 Empty stub
 
 ```java
-/** Represents a from scratch implementation of an arraylist in Java without using the Java Collections framework.
+/** Represents an empty stub for the class MyArray.
  * 
  * 
  * @author Junaid Dodhia
