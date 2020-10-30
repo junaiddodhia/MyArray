@@ -7,7 +7,7 @@
 
 ---
 
-Starting with an Empty stub
+Empty stub
 
 
 ```java
