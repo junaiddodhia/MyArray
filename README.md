@@ -1,4 +1,4 @@
-## ArrayList in Java (without using the Java Collections framework)
+### ArrayList implementation in Java (without using the Java Collections framework)
 
 
 
