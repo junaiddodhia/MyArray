@@ -4,7 +4,7 @@
 
 Wright's First Flight - 1902
 
-<img src="https://github.com/junaiddodhia/MyArray/blob/master/Wright'sFirstFlight1902.png?raw=true" width="800" height="500" />
+<img src="https://github.com/junaiddodhia/MyArray/blob/master/Wright'sFirstFlight1902.png?raw=true" width="600" height="350" />
 
 ---
 
