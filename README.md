@@ -7,7 +7,7 @@
 
 ---
 
-Empty stub
+Starting with an Empty stub
 
 
 ```java
@@ -248,6 +248,7 @@ A function to remove duplicates from the array
 
 ---
 
+To see a put together file, look at MyArray.java.
 Driver.java is a driver file to test MyArray.java. 
 childrensbible.txt is the text file used for testing.
 
