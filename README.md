@@ -1,8 +1,8 @@
-### Arraylist implementation in Java (without using the Java Collections framework)
+## ArrayList in Java (without using the Java Collections framework)
 
 
 
-<img src="https://github.com/junaiddodhia/MyArray/blob/master/Wright'sFirstFlight1902.png?raw=true" width="600" height="350" />
+<img src="https://github.com/junaiddodhia/MyArray/blob/master/Wright'sFirstFlight1902.png?raw=true" width="700" height="450" />
 
 
 ---
