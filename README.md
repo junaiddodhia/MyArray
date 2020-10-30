@@ -11,7 +11,7 @@ Empty stub
  * 
  * 
  * @author Junaid Dodhia
-*/
+ */
 public class MyArray {
 }
 ```
