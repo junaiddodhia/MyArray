@@ -1,10 +1,8 @@
-#### Arraylist implementation in Java (without using the Java Collections framework)
+### Arraylist implementation in Java (without using the Java Collections framework)
 
 ---
-
-Wright's First Flight - 1902
-
 <img src="https://github.com/junaiddodhia/MyArray/blob/master/Wright'sFirstFlight1902.png?raw=true" width="600" height="350" />
+Wright's First Flight - 1902
 
 ---
 
