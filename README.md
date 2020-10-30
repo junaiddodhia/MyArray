@@ -1,4 +1,4 @@
-# ArrayList Implementation
+# An ArrayList from scratch 
 
 A from scratch implementation of an arraylist in Java without using the Java Collections framework.
 
@@ -10,7 +10,7 @@ Wright's First Flight - 1902
 
 Empty stub
 
----
+
 ```java
 /** Represents an empty stub for the class MyArray.
  * 
