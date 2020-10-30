@@ -248,8 +248,6 @@ A function to remove duplicates from the array
 Driver.java is a driver file to test MyArray.java. 
 childrensbible.txt is the text file used for testing.
 
----
-
 ```
 /**********
 Expected output:
